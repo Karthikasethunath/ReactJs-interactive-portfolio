@@ -13,31 +13,31 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard 
             src={viberr} 
-            link="https://github.com/Karthikasethunath/AI-job-displacement"
+            link="https://github.com/Karthikasethunath/dermachat-ai-datascraping.git"
             h3="Healthcare analytics"
             p="Derma-AI chatbot"
         />
         <ProjectCard 
             src={coding} 
-            link="https://github.com/Karthikasethunath/AI-job-displacement"
+            link="https://github.com/Karthikasethunath/ReactJs-interactive-portfolio.git"
             h3="React js project"
             p="Portfolio website creation"
         />
         <ProjectCard 
             src={freshBurger} 
-            link="https://github.com/Karthikasethunath/AI-job-displacement"
+            link="https://github.com/Karthikasethunath/covid-dashboard.git"
             h3="Power BI project"
             p="Covid-19 Dashboard"
         />
         <ProjectCard 
             src={upload} 
-            link="https://github.com/Karthikasethunath/AI-job-displacement"
+            link="https://github.com/Karthikasethunath/aws-cloud-project.git"
             h3="AWS project"
             p="Cloud computing"
         />
         <ProjectCard 
             src={machinelearning} 
-            link="https://github.com/Karthikasethunath/AI-job-displacement"
+            link="https://github.com/Karthikasethunath/gradcam-explainable-ml.git"
             h3="Explainable ML project"
             p="GradCAM Variations"
         />    
